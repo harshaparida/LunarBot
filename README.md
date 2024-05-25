@@ -77,6 +77,6 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 
 ## 📬 Contact
 
-For any inquiries or feedback, please reach out to [your email](mailto:harshabardhanaparida@gmail.com).
+For any inquiries or feedback, please reach out to [my email](mailto:harshabardhanaparida@gmail.com).
 
 ---
