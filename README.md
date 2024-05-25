@@ -61,7 +61,7 @@ After training, you can watch the trained agent in action by running the provide
 
 ## 📁 Project Structure
 
-- `lunar_lander_dqn.ipynb`: Jupyter Notebook containing the implementation.
+- `dqn.ipynb`: Jupyter Notebook containing the implementation.
 - `README.md`: This file.
 - `demo.gif`: Demo GIF showing the trained agent in action.
 
